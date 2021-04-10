@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=tjmari)](https://github.com/mohouyizme/1337-readme)
 <br />
-![Metrics](https://metrics.lecoq.io/taoufiqjmari?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=Africa%2FCasablanca)
+<br />
+<br />
+![Metrics](https://metrics.lecoq.io/taoufiqjmari?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Africa%2FCasablanca)
